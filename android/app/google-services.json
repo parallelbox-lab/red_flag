@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "124674416682",
+    "project_id": "red-flags-2c4b5",
+    "storage_bucket": "red-flags-2c4b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124674416682:android:85479de5d9e40687eba353",
+        "android_client_info": {
+          "package_name": "com.example.red_flag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124674416682-06cqkv0jcfm60stf4l2jpunjkq3dma49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.red_flag",
+            "certificate_hash": "a416ebd348dcb0cb029e88bf56fdabfb8741ec55"
+          }
+        },
+        {
+          "client_id": "124674416682-lf8ekome8s9gpvc7q3uo63f49nl0deqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAipRiN_pbhOU462gA-lY9ZIWfzYdTab08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124674416682-lf8ekome8s9gpvc7q3uo63f49nl0deqe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124674416682-a37fit0s0bs0hqps74eb7rp7f9bercp4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.redFlag"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124674416682:android:214da52735b331c3eba353",
+        "android_client_info": {
+          "package_name": "com.parallelbox.red_flag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124674416682-op9fr62gh7fsqadbdd8dsvu6jlvh33ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parallelbox.red_flag",
+            "certificate_hash": "a416ebd348dcb0cb029e88bf56fdabfb8741ec55"
+          }
+        },
+        {
+          "client_id": "124674416682-lf8ekome8s9gpvc7q3uo63f49nl0deqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAipRiN_pbhOU462gA-lY9ZIWfzYdTab08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124674416682-lf8ekome8s9gpvc7q3uo63f49nl0deqe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124674416682-a37fit0s0bs0hqps74eb7rp7f9bercp4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.redFlag"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
